@@ -1,0 +1,4 @@
+CLOUDKARAFKA_BROKERS=rocket-01.srvs.cloudkafka.com:9094,rocket-02.srvs.cloudkafka.com:9094,rocket-03.srvs.cloudkafka.com:9094
+CLOUDKARAFKA_USERNAME=soyh3hjc
+CLOUDKARAFKA_PASSWORD=6hSYrKCyM4ellVDbFm2SJEPgQh2D1FVR
+CLOUDKARAFKA_TOPIC_PREFIX=soyh3hjc-
